@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>workshop on github </center>
 
-<center>(https://github.com/tercen/user_workshop)</center>
+<center>(https://github.com/tercen/user_workshop2)</center>
 
 ## Agenda
 
@@ -237,6 +237,7 @@ The top left icon allows you to navigate to up one level
 - click on people icon, to get up to team
 
 To go down:
+
 - click on project
 - click on workflow
 - click on data
